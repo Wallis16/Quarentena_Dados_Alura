@@ -1,5 +1,5 @@
 ### Quarentena_Dados_Alura
-##20 a 24 de abril houve a semana "quarentena dados", promovida pela Alura, com profissionais da área.
+## 20 a 24 de abril houve a semana "quarentena dados", promovida pela Alura, com profissionais da área.
 
 Basicamente em cada dia da semana, ao término da aula/debate, houve notebooks com desafios a serem respondidos. Foram ao total 5 notebooks (um para cada dia). Os 4 primeiros tratam de análise de dado no geral, com foco na interpretação dos dados e como manipulá-los utilizando a biblioteca pandas (python). Do ponto de vista de tratamento dos dados, digo que foi bem interessante e deu pra se divertir e aprender bastante. Houve um pouco de visualização utilizando o seaborn, também teve alguns heatmaps e vários pairplots. 
 
